@@ -1,0 +1,11 @@
+streamlit
+streamlit-option-menu
+transformers
+torch
+pandas
+numpy
+scikit-learn
+matplotlib
+shap
+lime
+bcrypt

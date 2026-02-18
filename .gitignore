@@ -1,0 +1,21 @@
+# Virtual Environment
+venv/
+.venv/
+env/
+
+# Python cache
+__pycache__/
+
+# Logs
+logs/
+
+# Large model files (optional)
+*.safetensors
+
+# System files
+.DS_Store
+Thumbs.db
+
+dataset/*.csv
+dataset/*.zip
+dataset/*.json
